@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+<img align="right" alt="Data Science" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 - 🔭 I’m currently working as a **Data Analyst Intern at PSL**
 
 - 🌱 I’m currently learning **AI and MLOps**
 
-- 👯️ I’m looking to collaborate on **OpenSource Projects**
+- 💯 I’m looking to collaborate on **OpenSource Projects**
 
 - 💬 Ask me about **Python, ML, AI, Database, SQL**
 
