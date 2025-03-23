@@ -7,7 +7,7 @@
 
 <img align="right" alt="AI and Data Science" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working as a **Data Analyst Intern at PSL**
+- 🔭 I’m currently working as a **Data Analyst Intern at Pratikshat Solutions LLP**
 
 - 🌱 I’m currently learning **AI and MLOps**
 
