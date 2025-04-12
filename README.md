@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a **Data Analyst Intern at Pratikshat Solutions LLP**
 
-- 🌱 I’m currently learning **AI and MLOps**
+- 🌱 I’m currently learning **AI and MLOps, Kubernetes**
 
 - 💯 I’m looking to collaborate on **OpenSource Projects**
 
